@@ -1,0 +1,38 @@
+body {
+    background-color:rgb(14, 226, 226);
+
+}
+
+h1 {
+    color: rgb(1, 2, 0);
+    text-align: center;
+
+}
+
+p{
+    margin: 5px;
+    padding: 4px;
+
+}
+
+ul{
+list-style-type: none;
+padding-left: 10px;
+
+}
+
+.foto{
+    height: 200px;
+    width: 350px;
+
+}
+
+.ESTAMOS{
+    font-size: large 30px;
+    font-family: 20px;
+}
+
+.foto{
+    padding-left: 560px;
+}
+
